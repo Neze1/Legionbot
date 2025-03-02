@@ -1,7 +1,7 @@
 {
   "bot-account": {
     "username": "Legionbot",
-    "auth": "offline"
+    "auth": "LMAOXD"
   },
   "server": {
     "ip": "LegionsSMP.aternos.me",
@@ -16,8 +16,8 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
-      "password": ""
+      "enabled": true,
+      "password": "LMAOXD"
     },
     "anti-afk": {
       "enabled": true,
