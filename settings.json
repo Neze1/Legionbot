@@ -28,9 +28,7 @@
       "repeat": true,
       "repeat-delay": 60,
       "messages": [
-        "I'm a regular player",
-        "Subscribe!",
-        "I Like to Play Minecraft!"
+        "Welcome! to Legion!"
       ]
     },
     "chat-log": true,
