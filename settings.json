@@ -18,8 +18,7 @@
     "auto-auth": {
       "enabled": true,
       "password": "LMAOXD",
-      "login-command": "/login",
-      "register-cmd": false
+      "login-command": "/login"
     },
     "anti-afk": {
       "enabled": true,
@@ -39,3 +38,4 @@
   },
   "debug": true
 }
+
