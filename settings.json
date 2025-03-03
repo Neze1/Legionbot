@@ -13,10 +13,12 @@
     "x": 0,
     "y": 0,
     "z": 0
-  "auto-auth": {
-  "enabled": true,
-  "password": "LMAOXD",
-  "login-command": "/login"
+  },
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "LMAOXD",
+      "login-command": "/login"
     },
     "anti-afk": {
       "enabled": true,
